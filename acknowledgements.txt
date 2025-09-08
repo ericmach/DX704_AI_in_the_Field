@@ -1,0 +1,1 @@
+Used yfinance module to download stock data for the past 24 months. Also used dateutil.relativedelta to compute the date differences and pull the correct closing prices at the end of each month.
