@@ -1,0 +1,1 @@
+To address the seasonality variation in the strawberry data for time series forecasting, SARIMA was used instead of a simple autoregressive or ARIMA model. The SARIMA documentation from statsmodels was researched to better understand the library.
