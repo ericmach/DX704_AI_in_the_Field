@@ -1,0 +1,1 @@
+The Upper Confidence Bound algorithm was chosen. As the distribution histograms show, the bandit rewards are bounded and relatively well-concentrated, making interval-based exploration effective. The Thompson sampling method relies on easily manipulated distributions and lacks the same level of simple deterministic guarantees, making UCB1 the better choice.
